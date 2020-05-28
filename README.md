@@ -1,10 +1,5 @@
 # Mag-Docker
 ##### Installs magento2.3.5 prerequisites.
-Docker images used:
-```
-arunkp03/mariadb-10.4.12:v1
-arunkp03/apache2.4.18-php7.2.5-magento2.3.5:v1
-```
 ___
 ### Installation steps
 ```
