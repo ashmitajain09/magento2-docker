@@ -1,4 +1,4 @@
-# Mag-Docker
+# Magento2-Docker
 ##### Installs magento2.3.5 prerequisites.
 ___
 ### Installation steps
