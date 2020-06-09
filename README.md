@@ -3,7 +3,7 @@
 ___
 ### Installation steps
 ```
-$ git clone https://github.com/arunkp123/mag-docker.git docker-magento2
+$ git clone https://github.com/ashmitajain09/magento2-docker.git
 $ cd docker-magento2
 $ sh setup.sh
 ```
